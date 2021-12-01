@@ -1,6 +1,7 @@
 /*
 脚本：电视家小毛
 每日任务跑完，差不多2元，提现的话是签到给额度
+https://volctracer.com/w/yC9CColi?uid=71d0a8630df95901876594a2484adfc7
 打开抓包软件后，进入电视家app点击我的就可以抓取到参数了
 url关键词:cash/info，复制userid跟authorization
 把抓到的参数配置到dsjCOOKIE.js脚本尾部，示例
