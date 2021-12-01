@@ -22,7 +22,7 @@ cron 0 5-23 * * *  建议一小时一次
 */ 
 
 
-const $ = new Env('电视家');
+const $ = new Env('电视家1');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const walkstep = '20000'; //每日步数设置，可设置0-20000
 const gametimes = "1999"; //游戏时长
