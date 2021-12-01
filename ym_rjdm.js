@@ -1,6 +1,7 @@
 /*
 脚本：日进斗米小毛
 任务类app，看广告可得100金币，1w=1元
+https://yjt.yijiayouyun.com/share.html?pid=10161
 进入app，点击我的就可以抓取到参数
 url关键词:info，点击请求，复制Authorization参数值
 值里面的Bearer和Bearer后面的空格都不要
