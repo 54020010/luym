@@ -1,6 +1,7 @@
 /*
 脚本：看看集小毛
 阅读类项目，收益不错
+http://bb.ymjoke.net/mpau/promo/red?sence=201&state=102909
 微信打开链接，点击右上角三个点，点击刷新就可以抓取到参数
 url关键词:ticket，复制ticket参数跟User-Agent参数
 青龙面板配置环境变量
