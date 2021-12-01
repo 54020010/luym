@@ -1,6 +1,7 @@
 /*
 脚本：九章头条小毛
 阅读类app，0.3/2/5/30/50/100额度可提现无门槛，日收益2+
+http://emmcn5.sousou.com/pages/activity/download?invite_code=z9nReVa9
 进入app就可以抓取到参数
 url关键词:info?token=，复制整条请求头URL
 青龙面板配置环境变量
